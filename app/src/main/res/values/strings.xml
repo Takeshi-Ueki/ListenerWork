@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListenerWork2</string>
+    <string name="tvHello">Hello!!</string>
+    <string name="button">表示 / 非表示</string>
+</resources>
